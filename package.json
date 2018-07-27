@@ -1,0 +1,11 @@
+{
+  "name": "lesley-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "John Keller",
+  "license": "ISC"
+}
