@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
   },
   "author": "John Keller",
   "license": "ISC",
   "dependencies": {
-    "scss": "^0.2.4"
+    "node-sass": "^4.9.2"
   }
 }
