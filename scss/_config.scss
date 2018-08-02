@@ -45,7 +45,7 @@ $background-opacity: 0.7;
   }
 }
 @mixin mediaMd {
-  @media screen and (max-width: 769x) {
+  @media screen and (max-width: 769px) {
     @content;
   }
 }
