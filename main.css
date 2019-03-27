@@ -10,7 +10,7 @@
   width: 28px;
   height: 3px;
   margin: 0 0 5px 0;
-  background: #fff;
+  background: #2A9F92;
   transition: all 0.5s ease-out;
 }
 .menu-btn.close {
@@ -83,7 +83,7 @@
   height: 250px;
   background: url("img/portrait.jpg");
   border-radius: 50%;
-  border: solid 3px #8f07c5;
+  border: solid 3px #2A9F92;
   opacity: 1;
 }
 .menu .nav-item {
@@ -102,7 +102,7 @@
   transform: translate3d(0, 0, 0);
 }
 .menu .nav-item.current > a {
-  color: #8f07c5;
+  color: #2A9F92;
 }
 .menu .nav-link {
   display: inline-block;
@@ -116,7 +116,7 @@
   transition: all 0.5s ease-out;
 }
 .menu .nav-link:hover {
-  color: #8f07c5;
+  color: #2A9F92;
 }
 
 .nav-item:nth-child(1) {
@@ -140,8 +140,8 @@
 }
 
 body {
-  background: #444;
-  color: #fff;
+  background: #AFD9D4;
+  color: #333;
   margin: 0;
   height: 100%;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -194,7 +194,7 @@ header {
 }
 
 .text-secondary {
-  color: #8f07c5;
+  color: #2A9F92;
 }
 
 main {
@@ -208,7 +208,7 @@ main .icons a {
   padding: 0.4rem;
 }
 main .icons a:hover {
-  color: #8f07c5;
+  color: #2A9F92;
   transition: all 0.5s ease-out;
 }
 main#home {
@@ -229,7 +229,7 @@ main#home h1 {
   grid-area: bioimage;
   margin: auto;
   border-radius: 50%;
-  border: 3px solid #8f07c5;
+  border: 3px solid #2A9F92;
 }
 .about-info .bio {
   grid-area: bio;
@@ -247,7 +247,7 @@ main#home h1 {
 .about-info .job {
   background: #515151;
   padding: 0.5rem;
-  border-bottom: #8f07c5 5px solid;
+  border-bottom: #2A9F92 5px solid;
 }
 
 .projects {
@@ -261,7 +261,7 @@ main#home h1 {
 }
 .projects img:hover {
   opacity: 0.5;
-  border-color: #8f07c5;
+  border-color: #2A9F92;
   transition: all 0.5s ease-out;
 }
 
@@ -281,7 +281,7 @@ main#home h1 {
 }
 .boxes div:hover {
   padding: 0.5rem 1.5rem;
-  background: #8f07c5;
+  background: #2A9F92;
   color: #fff;
 }
 .boxes div:hover span {
@@ -300,7 +300,7 @@ main#home h1 {
 .btn:hover,
 .btn-dark:hover,
 .btn-light:hover {
-  background: #8f07c5;
+  background: #2A9F92;
   color: #fff;
 }
 
